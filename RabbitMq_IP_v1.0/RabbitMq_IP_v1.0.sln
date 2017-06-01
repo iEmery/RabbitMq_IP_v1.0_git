@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq_IP_v1.0", "RabbitMq_IP_v1.0\RabbitMq_IP_v1.0.csproj", "{FA4BE9B3-B2F3-4343-AD99-ABA99092A1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrestaSharp", "..\..\..\..\..\..\SKOOL\3eDIG-x_part2\Integration\RabbitMq\PrestaSharp-master\PrestaSharp.csproj", "{3D494A24-06BA-475B-A158-162745683EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages_ClassLibrary", "Messages_ClassLibrary\Messages_ClassLibrary.csproj", "{937E3698-FD51-4F11-936B-2E62DEA80A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4BE9B3-B2F3-4343-AD99-ABA99092A1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4BE9B3-B2F3-4343-AD99-ABA99092A1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4BE9B3-B2F3-4343-AD99-ABA99092A1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4BE9B3-B2F3-4343-AD99-ABA99092A1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D494A24-06BA-475B-A158-162745683EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D494A24-06BA-475B-A158-162745683EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D494A24-06BA-475B-A158-162745683EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D494A24-06BA-475B-A158-162745683EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937E3698-FD51-4F11-936B-2E62DEA80A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937E3698-FD51-4F11-936B-2E62DEA80A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937E3698-FD51-4F11-936B-2E62DEA80A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937E3698-FD51-4F11-936B-2E62DEA80A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
